@@ -29,7 +29,7 @@ pip install pymem
 3. Run the script:
 
 ```bash
-python your_script.py
+python final.py
 ```
 
 ## Description
