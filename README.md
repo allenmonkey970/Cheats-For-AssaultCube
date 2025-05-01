@@ -1,7 +1,7 @@
 # Cheats For AssaultCube
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6+-green.svg)
-![Last Updated](https://img.shields.io/badge/last%20updated-2025--04--30-brightgreen)
+![Last Updated](https://img.shields.io/badge/last%20updated-2025--05--01-brightgreen)
 
 This repository contains a cheat engine for the game AssaultCube, implemented in Python using the `pymem` library. The code allows manipulation of various in-game values such as health, armor, and ammunition.
 
